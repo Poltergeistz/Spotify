@@ -17,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/Poltergeistz/Spotify/issues"
   },
-  "homepage": "https://github.com/Poltergeistz/Spotify#readme"
+  "homepage": "https://github.com/Poltergeistz/Spotify#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
